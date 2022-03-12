@@ -23,6 +23,7 @@ function validateForm(){
     }
        
     if(flag){
+        alert("Validation Successful")
         return true;
     }else{
         return false;
